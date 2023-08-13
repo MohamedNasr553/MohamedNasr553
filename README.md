@@ -37,8 +37,7 @@
 <details>
 <summary>More Skills</summary>
 <br>
-
-![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=Cplusplus&logoColor=white&color=004F6D)  
+  
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=004F6D)
