@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/Code-Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=004F6D)
   
-![](https://img.shields.io/badge/DB-Postgre-informational?style=for-the-badge&logo=postgre&logoColor=white&color=004F6D)
+![](https://img.shields.io/badge/DB-Postgresql-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/DB-SqlServer-informational?style=for-the-badge&logo=MicrosoftSqlserver&logoColor=white&color=004F6D)
   
