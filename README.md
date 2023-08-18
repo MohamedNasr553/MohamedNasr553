@@ -46,7 +46,5 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nasr-23852b24a/)
 <br>
 <br>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamednasr553&show_icons=true&locale=en&layout=compact" alt="mohamednasr553" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamednasr553&show_icons=true&locale=en" alt="mohamednasr553"/></p>
