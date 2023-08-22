@@ -29,7 +29,7 @@
   
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/DB-SqlServer-informational?style=for-the-badge&logo=MicrosoftSqlserver&logoColor=white&color=004F6D)
-![](https://img.shields.io/badge/DB-Oraclesql-informational?style=for-the-badge&logo=oraclesql&logoColor=white&color=004F6D)
+![](https://img.shields.io/badge/DB-oracledb-informational?style=for-the-badge&logo=oracledb&logoColor=white&color=004F6D)
   
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/API-RestAPI-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=004F6D)
