@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=Cplusplus&logoColor=white&color=004F6D)  
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=Cs&logoColor=white&color=004F6D)
-![](https://img.shields.io/badge/Code-C#-informational?style=for-the-badge&logo=c#&logoColor=white&color=004F6D)  
+![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=CSharp&logoColor=white&color=004F6D)  
 
 <!-- ![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&logoColor=white&color=004F6D) -->
 
