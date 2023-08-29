@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=Cplusplus&logoColor=white&color=004F6D)  
-![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=Cs&logoColor=white&color=004F6D)
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=C&logoColor=white&color=004F6D)
 <!-- ![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&logoColor=white&color=004F6D) -->
 
   
