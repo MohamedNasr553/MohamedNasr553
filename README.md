@@ -20,12 +20,12 @@
   
 ![](https://img.shields.io/badge/Code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Code-django-informational?style=for-the-badge&logo=django&logoColor=white&color=004F6D)
- 
-![](https://img.shields.io/badge/Code-php-informational?style=for-the-badge&logo=php&logoColor=white&color=004F6D)
-![](https://img.shields.io/badge/Code-laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=004F6D)  
 
 ![](https://img.shields.io/badge/Code-Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=004F6D)
+ 
+![](https://img.shields.io/badge/Code-php-informational?style=for-the-badge&logo=php&logoColor=white&color=004F6D)
+![](https://img.shields.io/badge/Code-laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=004F6D)  
   
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/DB-SqlServer-informational?style=for-the-badge&logo=MicrosoftSqlserver&logoColor=white&color=004F6D)
