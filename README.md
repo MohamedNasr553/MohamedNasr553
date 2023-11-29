@@ -4,12 +4,9 @@
   </i>
 </h6> 
 
-<h3 align="center">A Software Developer</h3>
-
-
-<h2 align="left">
+<h3 align="left">
   Knowledge, tools and skills
-</h2>
+</h3>
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=004F6D)
@@ -43,18 +40,14 @@
 
 </details>
   
-<h2 align="left">
+<h3 align="left">
   Contact
-</h2>
+</h3>
 <p align="left">
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nasr-23852b24a/)
 <br>
 <br>
 
-<h2 align="left">
-  Stats
-</h2>
-<p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamednasr553&show_icons=true&locate=en&layout=compact" alt="mohamednasr553"/><p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamednasr553&show_icons=true&locale=en" alt="mohamednasr553"/></p>
