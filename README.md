@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Mohamed Ahmed Nasr</h1>
+<h6 align="right">
+  <i>
+    B.Sc. Information systems<br/>Cairo University (2020 - 2024)
+  </i>
+</h6> 
 <h3 align="center">A Software Developer</h3>
-
-
 
 
 ## Skills
@@ -11,8 +13,6 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=Cplusplus&logoColor=white&color=004F6D)  
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=C&logoColor=white&color=004F6D)
-<!-- ![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&logoColor=white&color=004F6D) -->
-
   
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=Spring&logoColor=white&color=004F6D)
