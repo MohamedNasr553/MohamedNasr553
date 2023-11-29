@@ -1,6 +1,6 @@
 <h6 align="right">
   <i>
-    B.Sc. Information systems<br/>Cairo University (2020 - 2024)
+    Information systems<br/>Cairo University (2020 - 2024)
   </i>
 </h6> 
 <h3 align="center">A Software Developer</h3>
