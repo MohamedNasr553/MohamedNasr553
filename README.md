@@ -1,12 +1,12 @@
-<h6 align="right">
+<h5 align="right">
   <i>
     Information systems<br/>Cairo University (2020 - 2024)
   </i>
-</h6> 
+</h5> 
 
-<h5 align="left">
+<h2 align="left">
   Knowledge, tools and skills
-</h5>
+</h2>
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=004F6D)
@@ -40,9 +40,9 @@
 
 </details>
   
-<h5 align="left">
+<h2 align="left">
   Contact
-</h5>
+</h2>
 <p align="left">
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nasr-23852b24a/)
