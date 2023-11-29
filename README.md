@@ -49,5 +49,15 @@
 <br>
 <br>
 
+<h2 align="left">
+  GitHub Statistics
+</h2>
+<p align="left">
+  
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamednasr553&show_icons=true&locate=en&layout=compact" alt="mohamednasr553"/><p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamednasr553&show_icons=true&locale=en" alt="mohamednasr553"/></p>
+-->
+
+![mohamednasr553's github stats](https://github-readme-stats.vercel.app/api?username=mohamednasr553&show_icons=true&theme=tokyonight)
+![mohamednasr553's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamednasr553&theme=tokyonight&layout=compact)
