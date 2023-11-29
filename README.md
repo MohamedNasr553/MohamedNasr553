@@ -1,8 +1,8 @@
-<h5 align="right">
+<h6 align="right">
   <i>
     Information systems<br/>Cairo University (2020 - 2024)
   </i>
-</h5> 
+</h6> 
 
 <h2 align="left">
   Knowledge, tools and skills
