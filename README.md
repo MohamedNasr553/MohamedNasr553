@@ -4,9 +4,9 @@
   </i>
 </h6> 
 
-<h3 align="left">
+<h4 align="left">
   Knowledge, tools and skills
-</h3>
+</h4>
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=004F6D)
@@ -40,9 +40,9 @@
 
 </details>
   
-<h3 align="left">
+<h4 align="left">
   Contact
-</h3>
+</h4>
 <p align="left">
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nasr-23852b24a/)
